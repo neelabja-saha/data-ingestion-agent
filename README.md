@@ -200,4 +200,6 @@ This project was built to demonstrate that a Senior PM can go beyond spec-writin
 
 Every repo in this portfolio includes a PM Retrospective documenting product decisions, trade-offs, and what would be done differently — because shipping is only half the job.
 
+The output of this agent is used as the evaluation target for [`hallucination-auditor-agent`](https://github.com/neelabja-saha/hallucination-auditor-agent) — a meta-agent system that audits, scores, and self-improves agentic pipelines.
+
 **Author:** Neelabja Saha — [LinkedIn](https://www.linkedin.com/in/neelabja-saha) · [GitHub](https://github.com/neelabja-saha)
